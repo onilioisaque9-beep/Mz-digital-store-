@@ -1,0 +1,6 @@
+{
+  "name": "MZ Digital Store",
+  "description": "Plataforma profissional de venda de produtos digitais em Moçambique",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
